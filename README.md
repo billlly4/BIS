@@ -1,4 +1,4 @@
-# Project Title
+# analysis of the road traffic fine management process
 #### This project analyzes event logs using process mining techniques and statistical evaluations. It leverages pm4py for process mining and visualization tools like matplotlib and seaborn.
 
 ## Usage
