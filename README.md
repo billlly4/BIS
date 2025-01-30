@@ -4,5 +4,5 @@
 ## Usage
 #### Run the Jupyter Notebook to process event logs and generate insights.
 
-## DependenciesRequires 
+## Dependencies Requires 
 #### Python libraries: pandas, pm4py, numpy, matplotlib, seaborn, and scipy.
